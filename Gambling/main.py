@@ -2,7 +2,6 @@ from builtins import print
 
 from Balance import *
 
-
 play = True
 print("Welcome from Golden City's Gambling App")
 while play:
