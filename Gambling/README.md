@@ -1,3 +1,6 @@
+<h1>GAMBLING</h1>
+<h3>Without GUI</h3>
+
 - A Gambling App is requested from a shop called Golden City.
 - A manager from Golden City paid 9000 kyats for the app. 
 - We have 7 days to develop the app and deliver to the client.
